@@ -1,4 +1,4 @@
-osowinski.github.io
+# osowinski.github.io
 
 Personal website that acts as a portfolio displaying my projects and resume.
 
